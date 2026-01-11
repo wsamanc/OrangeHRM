@@ -1,0 +1,27 @@
+2026-01-11 08:27:38 INFO  Utils:112 - [TestNG] Running:
+  C:\SamanWorkspace\OrangeHRM\master.xml
+
+2026-01-11 08:28:11 INFO  TC001_LoginTest:16 - ********** Starting TC001_LoginTest **********
+2026-01-11 08:28:13 INFO  TC001_LoginTest:19 - Entered username
+2026-01-11 08:28:13 INFO  TC001_LoginTest:21 - Entered password
+2026-01-11 08:28:13 INFO  TC001_LoginTest:23 - Clicked the Login button
+2026-01-11 08:28:15 INFO  TC001_LoginTest:29 - Validated Dashboard Text
+2026-01-11 08:28:15 INFO  TC001_LoginTest:45 - ********** Finished TC001_LoginTest **********
+2026-01-11 08:52:35 INFO  TC001_LoginTest:16 - ********** Starting TC001_LoginTest **********
+2026-01-11 08:52:36 INFO  TC001_LoginTest:19 - Entered username
+2026-01-11 08:52:36 INFO  TC001_LoginTest:21 - Entered password
+2026-01-11 08:52:38 INFO  TC001_LoginTest:23 - Clicked the Login button
+2026-01-11 08:52:39 INFO  TC001_LoginTest:29 - Validated Dashboard Text
+2026-01-11 08:52:39 INFO  TC001_LoginTest:45 - ********** Finished TC001_LoginTest **********
+2026-01-11 08:53:01 INFO  TC001_LoginTest:16 - ********** Starting TC001_LoginTest **********
+2026-01-11 08:53:03 INFO  TC001_LoginTest:19 - Entered username
+2026-01-11 08:53:03 INFO  TC001_LoginTest:21 - Entered password
+2026-01-11 08:53:05 INFO  TC001_LoginTest:23 - Clicked the Login button
+2026-01-11 08:53:06 INFO  TC001_LoginTest:29 - Validated Dashboard Text
+2026-01-11 08:53:06 INFO  TC001_LoginTest:45 - ********** Finished TC001_LoginTest **********
+2026-01-11 08:57:20 INFO  TC001_LoginTest:16 - ********** Starting TC001_LoginTest **********
+2026-01-11 08:57:21 INFO  TC001_LoginTest:19 - Entered username
+2026-01-11 08:57:21 INFO  TC001_LoginTest:21 - Entered password
+2026-01-11 08:57:21 INFO  TC001_LoginTest:23 - Clicked the Login button
+2026-01-11 08:57:24 INFO  TC001_LoginTest:29 - Validated Dashboard Text
+2026-01-11 08:57:24 INFO  TC001_LoginTest:45 - ********** Finished TC001_LoginTest **********
